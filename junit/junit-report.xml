@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<
+    <testsuite name="searching-for-opencart-app;google-search-for-opencart-app" tests="1" failures="0" skipped="0">
+        <properties>
+            <property name="@search" value="true">
+            </property>
+            <property name="URI" value="/Users/JD/Projects/selenium-cucumber-js/features/google-search.feature">
+            </property>
+        </properties>
+        <testcase name="When I search Google for &quot; opencart app&quot;" classname="searching-for-opencart-app;google-search-for-vote-cards-app" time="1.990874784">
+        </testcase>
+        <testcase name="Then I should see some results" classname="searching-for-opencart-app;google-search-for-opencart-app" time="0.67219732">
+        </testcase>
+    </testsuite>
+  
+</testsuites>
